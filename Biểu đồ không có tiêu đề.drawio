@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T17:15:43.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="H3UcDoMOqq0hosZz9yL3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T18:43:15.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t5_OHOtj4jSjnjmOz62Y" version="24.6.4" type="github">
   <diagram name="Trang-1" id="ok2WKsnp69EQOrZXuCaC">
     <mxGraphModel dx="955" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,33 +10,164 @@
         <mxCell id="cC7Jj6LlgXi6CUbNM-gN-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;HTML&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(&lt;/font&gt;&lt;strong style=&quot;color: rgb(65, 65, 65); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; font-size: 17.5px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;HyperText Markup Language&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px; background-color: initial;&quot;&gt;Ngôn ngữ đánh dấu văn bản)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="256" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-4" value="Heading tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-4" target="cC7Jj6LlgXi6CUbNM-gN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-4" target="cC7Jj6LlgXi6CUbNM-gN-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-4" target="cC7Jj6LlgXi6CUbNM-gN-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-4" target="cC7Jj6LlgXi6CUbNM-gN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-4" target="cC7Jj6LlgXi6CUbNM-gN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-4" value="&lt;b&gt;Heading tags&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="280" y="-20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-5" value="Form tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="20" />
+              <mxPoint x="660" y="-500" />
+              <mxPoint x="685" y="-500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-5" target="cC7Jj6LlgXi6CUbNM-gN-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-5" value="&lt;b&gt;Form tags&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="-20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-6" value="List tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-6" value="&lt;b&gt;List tags&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-7" value="Pagragraph tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-7" value="&lt;b&gt;Pagragraph tags&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-8" value="Common tags" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-8" value="&lt;b&gt;Common tags&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-9" value="Orthers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-9" target="cC7Jj6LlgXi6CUbNM-gN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-9" target="cC7Jj6LlgXi6CUbNM-gN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-9" value="&lt;b&gt;Orthers&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="720" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-12" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Bố cục:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. &amp;lt;!DOCTYPE html&amp;gt; khai báo để browser biết đây là HTML&lt;div&gt;2.&amp;nbsp;&amp;lt;html&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. &amp;lt;head&amp;gt;&lt;/div&gt;&lt;div&gt;4. &amp;lt;title&amp;gt;&lt;/div&gt;&lt;div&gt;5. &amp;lt;body&amp;gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-220" width="330" height="120" as="geometry" />
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Bố cục:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. &amp;lt;!DOCTYPE html&amp;gt; khai báo để browser biết đây là HTML&lt;div&gt;2.&amp;nbsp;&amp;lt;html&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. &amp;lt;head&amp;gt;&lt;/div&gt;&lt;div&gt;4. &amp;lt;title&amp;gt;&lt;/div&gt;&lt;div&gt;5. &amp;lt;body&amp;gt;&lt;/div&gt;" link="https://freetuts.net/html-la-gi-bo-cuc-html-cua-mot-trang-web-420.html" id="cC7Jj6LlgXi6CUbNM-gN-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="-220" width="330" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-13" target="cC7Jj6LlgXi6CUbNM-gN-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-13" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Giao diện:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. header&lt;div&gt;2. footer&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. menu&lt;/div&gt;&lt;div&gt;4. sidebar&lt;/div&gt;&lt;div&gt;5. main content&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="-80" width="330" height="120" as="geometry" />
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-13" target="cC7Jj6LlgXi6CUbNM-gN-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-14" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Phân biệt HTML ELEMENTS và HTML ATTRIBUTES&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. ELEMENTS là html, body, div, head, h1, h2&lt;/div&gt;&lt;div&gt;2. ATRIBUTES là name, type, id, value&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="60" width="330" height="120" as="geometry" />
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Giao diện:&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. header dùng header&lt;div&gt;2. footer dùng footer&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3. menu dùng nav&lt;/div&gt;&lt;div&gt;4. sidebar dùng aside: left-sidebar right-side-bar&lt;/div&gt;&lt;div&gt;5. main content: dùng section&lt;/div&gt;" link="https://freetuts.net/tao-template-html5-dau-tien-74.html" id="cC7Jj6LlgXi6CUbNM-gN-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="-80" width="330" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Phân biệt HTML ELEMENTS và HTML ATTRIBUTES&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. ELEMENTS là html, body, div, head, h1, h2&lt;/div&gt;&lt;div&gt;2. ATRIBUTES là name, type, id, value&lt;/div&gt;" link="https://freetuts.net/html-elements-va-attributes-421.html" id="cC7Jj6LlgXi6CUbNM-gN-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1020" y="60" width="330" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Article: gom cấu trúc&lt;div&gt;2. hgroup: gom header lại&lt;/div&gt;&lt;/div&gt;" link="https://freetuts.net/them-article-trong-html5-75.html" id="cC7Jj6LlgXi6CUbNM-gN-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1400" y="-100" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="cC7Jj6LlgXi6CUbNM-gN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cC7Jj6LlgXi6CUbNM-gN-9" target="cC7Jj6LlgXi6CUbNM-gN-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;Validate&lt;/div&gt;&lt;div&gt;1. required&lt;/div&gt;" link="https://freetuts.net/validate-form-bang-html5-5509.html" id="cC7Jj6LlgXi6CUbNM-gN-20">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="1400" y="-10" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;Title : Tiêu đề&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. title: tiêu đề của file html&lt;/div&gt;" link="https://freetuts.net/the-title-trong-html-4891.html" id="cC7Jj6LlgXi6CUbNM-gN-24">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="90" y="-70" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;link/&amp;gt;: Tiêu đề&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. href: link&lt;/div&gt;&lt;div&gt;2. rel&lt;/div&gt;" link="https://freetuts.net/the-link-trong-html-4894.html" id="cC7Jj6LlgXi6CUbNM-gN-25">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="90" y="-140" width="150" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;meta/&amp;gt;: Mô tả thông tin trang&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. description&lt;/div&gt;&lt;div&gt;2. author&lt;/div&gt;&lt;div&gt;3. viewport&lt;/div&gt;&lt;div&gt;4. keywords&lt;/div&gt;" link="https://freetuts.net/the-meta-trong-html-4895.html" id="cC7Jj6LlgXi6CUbNM-gN-26">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="90" y="-270" width="150" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;script/&amp;gt;: JavaScript&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. thường đặt trong head&lt;/div&gt;&lt;div&gt;2. có thể viết thẳng trong &amp;lt;script&amp;gt; hoặc đặt file .js và src=&quot;&quot; tới&lt;/div&gt;" link="https://freetuts.net/the-script-trong-html-4896.html" id="cC7Jj6LlgXi6CUbNM-gN-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="90" y="-370" width="150" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;select&amp;gt;: Danh sách xổ xuống để chọn&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. có thể có 1 hoặc nhiều option&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;lt;option value = &#39;&#39;&amp;gt;&lt;/div&gt;" link="https://freetuts.net/the-select-trong-html-4898.html" id="cC7Jj6LlgXi6CUbNM-gN-35">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-100" width="150" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;input&amp;gt;: Lấy dữ liệu nhập từ người dùng&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. type: (text, password, checkbox, radio, submit, email, number, url,..)&lt;/div&gt;&lt;div&gt;2. name:&amp;nbsp;&lt;/div&gt;" link="https://freetuts.net/the-input-trong-html-4899.html" id="cC7Jj6LlgXi6CUbNM-gN-37">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-210" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;textarea&amp;gt;: Vùng dữ liệu văn bản&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.rows, cols, maxLength, autoFocus&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" link="https://freetuts.net/the-textarea-trong-html-4900.html" id="cC7Jj6LlgXi6CUbNM-gN-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-310" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;button&amp;gt;: Tạo nút bấm&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. Khác với input type button là nó có thể chứ văn bản hoặc ảnh&lt;/div&gt;&lt;div&gt;2. type(reset, submit, button), disable&lt;/div&gt;" link="https://freetuts.net/the-button-trong-html-4901.html" id="cC7Jj6LlgXi6CUbNM-gN-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-410" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;optgroup&amp;gt;: Danh sách option&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;select&amp;gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;lt;optgroup1&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;option 1&amp;gt; &amp;lt;option 2&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;optgroup1&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;lt;optgroup2&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;option 2&amp;gt; &amp;lt;option 2&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;lt;optgroup2&amp;gt;&lt;/div&gt;&lt;/div&gt;" link="https://freetuts.net/the-optgroup-trong-html-4903.html" id="cC7Jj6LlgXi6CUbNM-gN-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-584" width="145" height="160" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;label&amp;gt;: Đặt mô tả cho thẻ input&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. for = &quot;&quot; trùng với id của input&lt;br&gt;&lt;/div&gt;" link="https://freetuts.net/the-label-trong-html-4905.html" id="cC7Jj6LlgXi6CUbNM-gN-45">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-690" width="150" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b&gt;&amp;lt;form&amp;gt;: Tạo mẫu cho người dùng nhập và sau đó có submit form&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. action: form dữ liệu gửi tới&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. method: phương thức bao gồm POST, GET&lt;/div&gt;" link="https://freetuts.net/the-form-trong-html-4906.html" id="cC7Jj6LlgXi6CUbNM-gN-46">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+            <mxGeometry x="685" y="-840" width="150" height="130" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
